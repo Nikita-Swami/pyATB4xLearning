@@ -1,0 +1,1 @@
+print("Hello","Nikita",123,True,sep="|")
