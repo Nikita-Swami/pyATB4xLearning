@@ -1,3 +1,12 @@
+ #Home Can you create a Program I will give you number(userinput and print table)
+
+
+
+#f"{}" String format concept
+#User input - num int -> 10, 100, -1, 2, 3.14 -> input
+
+
+
 num1 = float(input("Enter number1"))
 
 print(f"{num1}*1={num1}")
