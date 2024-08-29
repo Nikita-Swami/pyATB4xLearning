@@ -3,7 +3,7 @@
 
 # Write a program to ask user which browser you can run for automation
 
-browser_name = input("Enter the name of browser/n")
+browser_name = input("Enter the name of browser\n")
 browser_name = browser_name.lower()
 match browser_name:
     case "firefox":
