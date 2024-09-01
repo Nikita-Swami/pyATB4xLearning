@@ -3,4 +3,15 @@
 def greet():
     print("Hello there!!!")
 
-    greet()
+    def _():
+        print("Hi...")
+
+        def nikita():
+            print("Hi Nikita!!")
+            _()
+
+    # function calling
+    result = greet()
+    _()
+    print(result)
+
