@@ -22,3 +22,4 @@ class Bank:
 icici = Bank(123456789012,2000)
 icici.deposit(2000)
 icici.check_balance()
+icici.show_me_account_balance(True)
